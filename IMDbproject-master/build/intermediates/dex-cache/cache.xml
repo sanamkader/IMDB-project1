@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_21b37be0e9c365a3e840920f0f72aa8654b38996\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_78d6cdcc4abeee054e41977c80f836515e4358a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_0d8ff6d36fa2c6d35afd7c8ec0fda3ff16a394e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_81a29dfd33ac35488703ee1e73bb887cdd50ac20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_7fbbdfdc9c50647d287837868acfdbaeb4f37758\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4bbe5d507aab9f3d6ee573da35801d792dcf9517\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_b194282d03cf0220f82ffe92bb0f9f412256176c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_eaa0c203349ec4ef71a4b4e3e1b6e689e619d1a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_27c0adede33fbb66b1c0fefd0949b38ec0ffca30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_dd378b0e831da3d2015db0037e643e1c44ab9d07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2aedfd6985f00decb04118508313f48e8ce9edc3">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eb76b071b1d05b7c3f74bb3fbc019d1f227e27e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_eab1a0ae6f01b15fc588dea76ee578227d2146c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_e1143dbca274f5c2d65fc7bd15c88bac2f1554ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_66651de3a9603c06d0710e8441f89b652faeaa47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_7449503dd722a407d1ab31a08dc2fa31146e31da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="baf38b9a12f0060d272d824f2abffb44c1d08b21">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a26844ca6302f3f957641a279c269a5c0f8cbd9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_1e368e5a60f1bf220b7ab7d3078a4a5f44dd411b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_af38732d5ebe7948ce4aadda40a1cbd2dadea7f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_0ac1806e375916afacfac748d1293497e808380e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4465c4de0ea57eb03ce0b5c39ca7bc0c2df03c6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_6ddd6afa02e66cba326840225950a82be60212b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_5b7a992d768d7d1081421ce0d1e5f44c86dcdc69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Anup\Downloads\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_6c3a7d3ae4735ef795f39e767b86bf193ce8fa62\classes.dex" />
+    </item>
+
+</items>
